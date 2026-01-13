@@ -1,0 +1,8 @@
+{
+  "name": "Guinée STORE",
+  "description": "An ultra-modern e-commerce platform for premium Guinean and African-inspired fashion, featuring AI recommendations, mobile money integration, and a mobile-first design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
